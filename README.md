@@ -7,7 +7,8 @@
 
 
 # I'm a Flutter developer 😎🖤
-Mohammed Salha , flutter developer with two years of experience
+Mohammed Salha , flutter developer with two years of experience, I have an experience in principles in web develpment(html,css,js,jquery,bootstrap 4) <br/>
+I have a good experience in Java,C,Dart programming languages
 <br/><br/>
 ### ✨ Github State
 <br/>
@@ -16,13 +17,14 @@ Mohammed Salha , flutter developer with two years of experience
 
 ### 💫 Languages and skills:
 ✧ SDKs: Dart, Java, Android SDK <br/>
-✧ Provider StateManagment <br/>
 ✧ Bloc StateManagment <br/>
-✧ Getx StateManagment <br/>
 ✧ Rest API <br/>
 ✧ Dio Package <br/>
+✧ http Package <br/>
 ✧ Resposive Flutter UI <br/>
+✧ Firebase Authentication <br/>
 ✧ Firebase FireStore <br/>
+✧ Firebase Storage <br/>
 ✧ RealTime Database (Firebase) <br/>
 ✧ DATABASES: SQLite, MySQL <br/>
 <!-- 
